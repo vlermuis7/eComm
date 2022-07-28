@@ -1,0 +1,21 @@
+To whom this may concern,
+
+The following instructions instructions are needed.
+
+1) run "update-databse"
+
+2)Testing of email:
+	- Open "https://ethereal.email/" This is a web based email testing platform
+	- Click on "Create Ethereal Account"
+	- Click on "Open MailBox", that is where the emails will appear after a purchase was made in the eComm web app. 
+	   -Refresh this page(https://ethereal.email/messages/) after a purchase was made in the eComm web app.
+	- Paste etherial username in "Controllers/CartController.cs" on line 140 and 186.
+	- Paste etherial password in "Controllers/CartController.cs" on line 186.
+	
+
+3) Run application
+
+4) Please don't hesitate to contact me via email or mobile if any of the instructions are unclear.
+        - Ferdie Labuschagne
+	-vlermuis7@gmail.com
+	-076 2740 409
